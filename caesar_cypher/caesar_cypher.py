@@ -1,4 +1,4 @@
-import art
+import caesar_art as art
 alphabet = art.alphabet
 
 print(art.logo)
